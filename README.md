@@ -49,14 +49,14 @@
 #### [tinyfarm]  <br>
 - 처음 식물 키우기에 도전하는 사람들을 위해 어떤 식물을 키워야 할지 추천해주고 식물을 잘 키울 수 있게 관리법을 알려주어 사람들에게 길잡이 역할을 하는 사이트를 제작 <br>
 - 담당기능 : SNS게시판,팔로우기능,MBTI테스트,실내식물API 추천 <br>
-[tinyfarm](https://github.com/baaann/tinyFarm)
+Git : [tinyfarm](https://github.com/baaann/tinyFarm)
 
 #### [personal-pet-mate] <br>
 - 늘어나는 반려동물 제품에 대해 시간과 돈을 절약하기 위해서 제품을 비교하여 쉽게 정보를 볼 수 있는 사이트 구축 <br>
 - 담당기능 : 회원관리, 회원의 게시판&리뷰&QnA 관리, 설문조사 수정 <br>
-[personal-pet-mate](https://github.com/baaann/personal_pet_mate)
-
-Most Used Languages 표
+Git : [personal-pet-mate](https://github.com/baaann/personal_pet_mate)
+<br> <br>
+### Most Used Languages 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaann&langs_count=8)](https://github.com/baaann/github-readme-stats) <br>
