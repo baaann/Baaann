@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Baaann Gitbub!&fontSize=90" />
 ## Introduction
 안녕하세요! 개발자를 꿈꾸는 반정현입니다.
 
