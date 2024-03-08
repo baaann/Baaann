@@ -1,6 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Baaan&fontSize=90" />
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 ## Introduction
 안녕하세요! 개발자를 꿈꾸는 반정현입니다.
+
+- **도전적인 목표**와 함께 **습득하고 배우는 과정**을 즐기며 그만큼 성장하는 것에 희열을 느낍니다.
+- **강한 책임감**으로 팀을 위해 해야 할 일을 스스로 찾고, 팀에게 도움이 되는 일을 하며 **밝고 긍정적인 에너지**로 사람들과 원활한 소통을 하며 **일의 완성도**를 높입니다.
+  
+## Contact
+Email : qkswjdgus68@gmail.com
+Phone : 010-3897-2756
+Blog : https://baaann.tistory.com/
+Notion : https://grateful-knave-386.notion.site/a56754be0a3c4131aa15639d2e652b3c
+
+## Education
+KH정보교육원 수료(23.08 ~ 24.01)
+한서대학교 항공기계공학과 졸업(17.03 ~ 24.02)
 
 ## Tech Stack
 
@@ -33,6 +47,7 @@ Tools and Others
 
 
 ## About me
+<a href="url" > <h3>:muscle: Problem Solving </h3> </a>
 
 
 
@@ -47,6 +62,8 @@ Tools and Others
 
 
 Most Used Languages 표
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaann&langs_count=8)](https://github.com/baaann/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baaann&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baaann&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=baaann&show_icons=true">
