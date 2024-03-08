@@ -48,7 +48,7 @@ Tools and Others
 
 Most Used Languages 표
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baaann&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=baaann&show_icons=true">
 
 github stats 표
