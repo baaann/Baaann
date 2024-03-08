@@ -56,13 +56,7 @@ Git : [tinyfarm](https://github.com/baaann/tinyFarm)
 - 담당기능 : 회원관리, 회원의 게시판&리뷰&QnA 관리, 설문조사 수정 <br>
 Git : [personal-pet-mate](https://github.com/baaann/personal_pet_mate)
 <br> <br>
-### Most Used Languages 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baaann&langs_count=8)](https://github.com/baaann/github-readme-stats) <br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baaann&show_icons=true&theme=radical) <br>
 
 
 
