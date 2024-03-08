@@ -31,7 +31,6 @@ Tools and Others
  	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
 
- notion
 
 ## About me
 
@@ -48,5 +47,8 @@ Tools and Others
 
 
 Most Used Languages 표
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
 
 github stats 표
