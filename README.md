@@ -6,7 +6,6 @@
 
 Languages & Libraries
 <div align="center">
-  <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -18,11 +17,21 @@ Languages & Libraries
  	<img src="https://img.shields.io/badge/Gson-000000?style=flat&logo=Gson&logoColor=white" />
  	<img src="https://img.shields.io/badge/MyBatis-1572B6?style=flat&logo=MyBatis&logoColor=white" />
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 </div>
-java,html5,css,js,jquery,oracle sql,AJAX,JSON,Gson,MyBatis,React,bootstrap
+
 
 Tools and Others
-spring, spring boot,eclipse ide, vs code,tomcat,github, notion
+<div align="center">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</div>
+
+ notion
 
 ## About me
 
