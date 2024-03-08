@@ -9,8 +9,8 @@
 ## ✉️Contact
 📫Email : qkswjdgus68@gmail.com <br>
 📞Phone : 010-3897-2756 <br>
-📗Blog : [반종원의 골목개발식당]<https://baaann.tistory.com/> <br>
-📝Notion : [포트폴리오]<https://grateful-knave-386.notion.site/a56754be0a3c4131aa15639d2e652b3c> <br>
+📗Blog : [반종원의 골목개발식당](https://baaann.tistory.com/) <br>
+📝Notion : [포트폴리오](https://grateful-knave-386.notion.site/a56754be0a3c4131aa15639d2e652b3c) <br>
 
 ## 📘Education
 💻 KH정보교육원 수료(23.08 ~ 24.01) <br>
